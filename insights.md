@@ -5,7 +5,7 @@ subtitle: When Holmes investigates 🔎
 ---
 <div style="text-align: justify">
     The evaluation of various language models yields to serval insights.
-    Find more details and further discussions in our <a href= "todo>paper</a>.
+    Find more details and further discussions in our <a href="todo">paper</a>.
     Any questions or wondering about other details? Happy to <a href= "mailto:holmesbenchmark@gmail.com">chat</a>.
 </div>
 
