@@ -5,12 +5,14 @@ subtitle: Holmes' Investigations 🔎
 ---
 
 The evaluation of various language models yields to serval insights.
+Find more details and further discussions in our <a href="todo">paper</a>.
 Any questions or wondering about other details? Happy to <a href= "mailto:holmesbenchmark@gmail.com">chat</a>.
 
 
 # The Linguistic Competence of Language Models
-The linguistic competence is heterogeneously learned by language models as no single one constantly exceeds.Find more details and further discussions in our <a href="todo">paper</a>.
+The linguistic competence is heterogeneously learned by language models as no single one constantly exceeds.
 ![Drag Racing](assets/img/top-lms.jpg)
+*Ranking of best and selected language models*
 
 Language models clearly better understand *morphology* and *syntax* than *semantics*, *reasoning*, and *discourse*.
 This distinction is evident in morphology and syntax's significantly higher Task Metric (`f1 macro` or `regression`).
@@ -21,6 +23,7 @@ Finally, the substantial *Selectivity* underlines the validity of our probing se
 Compared to training a probe using randomized labels, our probes effectively detect linguistic patterns in the internal representation space of language models.
 
 ![Drag Racing](assets/img/overall.jpg)
+*Aggregated results over all language models and dataset.*
 
 # Language Model Architecture
 The architecture of language models a clear effect on their linguistic competence. 
@@ -31,11 +34,13 @@ Diving into the detail confirm this assumption.
 We find that even with 70 billion parameters, decoder-only language models do not reach the accuracy of encoder-only one on the top-20 most common tokens for part-of-speech tagging. 
 
 ![Drag Racing](assets/img/architecture.jpg)
+*Comparison of the linguistic competence for encoder-only and decoder-only language models.*
 
 # Scaling Language Model Size
 The linguistic competence of LMs scales with their model size, independent of their architecture, when exceeding 500 million (Pythia) or 1 billion parameters (T5).
 We find that this trend is in particular prominent for *morphology* and *syntax* but less pronounced for *semantics*, *reasoning*, and *discourse*. 
 ![Drag Racing](assets/img/scaling.jpg)
+*Overview of how the linguistic competence changes when increasing model size.*
 
 # Instruction Tuning
 Apart from the alignment with human interaction, instruction tuning has a prominent effect on the linguistic competence of LMs. 
