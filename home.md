@@ -4,11 +4,11 @@ title: Holmes
 subtitle: Benchmark the Linguistic Competence of Language Models
 ---
 
-Holmes 🔎 is a research project focusing on the assessment of the linguistic competence of language models regarding morphology, syntax, semantic, reasoning and discourse phenomena. 
+Holmes 🔎 is a research project focusing on the assessment of the linguistic competence of language models.
 Along with the benchmark itself, we provide different resources.
 
 # 📚Benchmark
-The Holmes 🔎 benchmark features over 200 dataset covering 66 phenomena for morphology, syntax, semantics, reasoning, and discourse.
+The Holmes 🔎 benchmark features over 200 dataset covering 66 phenomena for *morphology*, *syntax*, *semantics*, *reasoning*, and *discourse*.
 Using classifier-based probing, Holmes 🔎 directly assess the linguistic competence of language models without tangling them with other abilities, like following provided instructions in prompting-based evaluations.
 
 ![Drag Racing](assets/img/benchmark.jpg)
