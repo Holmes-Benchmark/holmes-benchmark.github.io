@@ -22,9 +22,9 @@ full-width: true
 
 navbar-links:
   Paper: "https://deanattali.com"
-  Code: "https://deanattali.com"
-  Leaderboard: "https://deanattali.com"
-  Explorer: "https://deanattali.com"
+  Code: "https://github.com/Holmes-Benchmark/holmes-evaluation"
+  Leaderboard: "https://holmes-leaderboard.streamlit.app/"
+  Interactive Exploration: "https://holmes-explorer.streamlit.app/"
 
 ################
 # --- Logo --- #
