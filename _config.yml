@@ -22,6 +22,11 @@ full-width: false
 
 navbar-links:
   Paper: "https://deanattali.com"
+  Insights:
+    Linguistic Competence: "insights#the-linguistic-competence-of-language-models"
+    Architecture: "insights#the-linguistic-competence-of-language-models"
+    Size: "insights#the-linguistic-competence-of-language-models"
+    instruction Tuning: "insights#the-linguistic-competence-of-language-models"
   Code: "https://github.com/Holmes-Benchmark/holmes-evaluation"
   Leaderboard: "https://holmes-leaderboard.streamlit.app/"
   Interactive Exploration: "https://holmes-explorer.streamlit.app/"
