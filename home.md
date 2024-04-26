@@ -17,15 +17,12 @@ Find an overview of the insights [here](https://holmes-benchmark.github.io/insig
 
 ## 🔥 Evaluation Code
 Run the evaluation of your favorite language model fast and easy. We provide code to run Holmes 🔎 or FlashHolmes ⚡ with no more than one command.
-
 Find it  <button name="button">[here](https://github.com/Holmes-Benchmark/holmes-evaluation)</button>
 
 ## 🚀 Leaderboard
 The **Holmes Leaderboard** provides an interactive overview of evaluating over 50 different language models for Holmes 🔎 and its counterpart FlashHolmes ⚡ - optimized for efficiency.
-
 Find it <button onclick="window.location.href='https://holmes-leaderboard.streamlit.app';">here</button>
 
 ## 🔎 Interactive Exploration
 Using the **Holmes Explorer**, one can delve into more detailed results by comparing single datasets, phenomena or phenomena types.
-
 Find it [here](https://holmes-explorer.streamlit.app)
