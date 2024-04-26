@@ -5,10 +5,13 @@ subtitle: Holmes' Investigations 🔎
 ---
 
 The evaluation of various language models yields to serval insights.
-Find more details and further discussions in our <a href="todo">paper</a>.
 Any questions or wondering about other details? Happy to <a href= "mailto:holmesbenchmark@gmail.com">chat</a>.
 
+
 # The Linguistic Competence of Language Models
+The linguistic competence is heterogeneously learned by language models as no single one constantly exceeds.Find more details and further discussions in our <a href="todo">paper</a>.
+![Drag Racing](assets/img/top-lms.jpg)
+
 Language models clearly better understand *morphology* and *syntax* than *semantics*, *reasoning*, and *discourse*.
 This distinction is evident in morphology and syntax's significantly higher Task Metric (`f1 macro` or `regression`).
 Next, it makes sense to differentiate between the phenomena types (like *morphology* or *discourse*).
