@@ -9,7 +9,7 @@ layout: null
 html {
   font-size: 100%
 }
-button {
+.button {
   background-color: #01A88D; /* Green */
   border: none;
   color: white;
