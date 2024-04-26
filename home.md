@@ -23,7 +23,7 @@ Find it  <button name="button">[here](https://github.com/Holmes-Benchmark/holmes
 ## 🚀 Leaderboard
 The **Holmes Leaderboard** provides an interactive overview of evaluating over 50 different language models for Holmes 🔎 and its counterpart FlashHolmes ⚡ - optimized for efficiency.
 
-Find it [here](https://holmes-leaderboard.streamlit.app)
+Find it <button onclick="window.location.href='https://holmes-leaderboard.streamlit.app';">here</button>
 
 ## 🔎 Interactive Exploration
 Using the **Holmes Explorer**, one can delve into more detailed results by comparing single datasets, phenomena or phenomena types.
