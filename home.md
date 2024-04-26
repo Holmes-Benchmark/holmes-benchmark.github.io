@@ -18,7 +18,7 @@ Find an overview of the insights [here](https://holmes-benchmark.github.io/insig
 ## 🔥 Evaluation Code
 Run the evaluation of your favorite language model fast and easy. We provide code to run Holmes 🔎 or FlashHolmes ⚡ with no more than one command.
 
-Find it  [here](https://github.com/Holmes-Benchmark/holmes-evaluation)
+Find it  <button name="button">[here](https://github.com/Holmes-Benchmark/holmes-evaluation)</button>
 
 ## 🚀 Leaderboard
 The **Holmes Leaderboard** provides an interactive overview of evaluating over 50 different language models for Holmes 🔎 and its counterpart FlashHolmes ⚡ - optimized for efficiency.
