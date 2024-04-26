@@ -11,6 +11,7 @@ Any questions or wondering about other details? Happy to <a href= "mailto:holmes
 
 # The Linguistic Competence of Language Models
 The linguistic competence is heterogeneously learned by language models as no single one constantly exceeds.
+
 ![Drag Racing](assets/img/top-lms.jpg)
 *Figure 1, Ranking of best and selected language models*
 
@@ -39,6 +40,7 @@ We find that even with 70 billion parameters, decoder-only language models do no
 # Scaling Language Model Size
 The linguistic competence of LMs scales with their model size, independent of their architecture, when exceeding 500 million (Pythia) or 1 billion parameters (T5).
 We find that this trend is in particular prominent for *morphology* and *syntax* but less pronounced for *semantics*, *reasoning*, and *discourse*. 
+
 ![Drag Racing](assets/img/scaling.jpg)
 *Figure 4, Overview of how the linguistic competence changes when increasing model size.*
 
