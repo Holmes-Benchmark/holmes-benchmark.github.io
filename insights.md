@@ -18,6 +18,7 @@ subtitle: When Holmes investigates 🔎
     Finally, the substantial *Selectivity* underlines the validity of our probing setup.
     Compared to training a probe using randomized labels, our probes effectively detect linguistic patterns in the internal representation space of language models.
 </div>
+
 ![Drag Racing](assets/img/overall.jpg)
 
 # The Effect Language Model Architecture
