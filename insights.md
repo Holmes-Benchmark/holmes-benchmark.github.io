@@ -41,18 +41,5 @@ In contrast, we find mixed effects for *discourse* and *semantics*.
 Further, we analyze the role of instruction tuning data.
 We find that quality has more positive effects on the linguistic competence of LMs than quantity, as Tülu (high quantity) underperforms and Vicuna (high quality) outperforms.
 
-| Model          (params) | Morphology | Syntax    | Semantics | Reasoning | Discourse | Overall   |
-|-------------------------|------------|-----------|-----------|-----------|-----------|-----------|
-| Llama-2-Chat (7B)       | -8\%       | +3\%      | -5\%      | -9\%      | -3\%      | -2\%      |
-| FLAN-T5     (11B)       | +10\%      | +2\%      | -2\%      | +6\%      | -2\%      | +1\%      |
-| Dolly-v2      (12B)     | +4\%       | -3\%      | -9\%      | -3\%      | +4\%      | -4\%      |
-| Tülu-2     (13B)             | +5\%       | +2\%      | -15\%     | 0\%       | -30\%     | -8\%      |
-| Orca-2     (13B)             | -1\%       | -3\%      | -4\%      | +4\%      | -5\%      | -2\%      |
-| Llama-2-chat (13B)      | +3\%       | +1\%      | -6\%      | +3\%      | -1\%      | -1\%      |
-| Vicuna-v1.5   (13B)     | +23\%      | +7\%      | -3\%      | +6\%      | -6\%      | +4\%      |
-| FLAN-UL2     (20B)      | **+40\%**  | **+16\%** | **+7\%**  | **+13\%** | +1\%      | **+13\%** |
-| Mixtral-Instruct (47B)  | +4\%       | +3\%      | 0\%       | +6\%      | -2\%      | +2\%      |
-| Tülu-2      (70B)       | +15\%      | 0\%       | -11\%     | -3\%      | 0\%       | -2\%      |
-| Llama-2-Chat    (70B)   | +23\%      | +14\%     | +2\%      | +4\%      | **+17\%** | +10\%     |
-| *Average*               | *+10\%*    | *+4\%*    | *-3\%*    | *+4\%*    | *-2\%*    | *+1\%*   |
+![Drag Racing](assets/img/table.png)
 *Mean winning rate improvement in percentage compared to their pre-trained base model.*
