@@ -13,7 +13,7 @@ Along with the benchmark itself, we provide different resources.
 ## 📚 Benchmark
 The Holmes 🔎 benchmark features over 200 dataset covering 66 phenomena for *morphology*, *syntax*, *semantics*, *reasoning*, and *discourse*.
 Using classifier-based probing, Holmes 🔎 directly assesses the linguistic competence of language models without tangling them with other abilities, like following provided instructions in prompting-based evaluations.
-Find an overview of the insights [here](https://holmes-benchmark.github.io/insights/) and more details in our [paper](todo).
+Find an overview of the insights [here](https://holmes-benchmark.github.io/insights/) and more details in our paper.
 
 ## 🔥 Evaluation Code
 Run the evaluation of your favorite language model quickly and easily. We provide code to run Holmes 🔎 or FlashHolmes ⚡ with no more than one command.

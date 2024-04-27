@@ -5,7 +5,7 @@ subtitle: Holmes' Investigations 🔎
 ---
 
 The evaluation of various language models yields serval insights.
-Find more details and further discussions in our <a href="todo">paper</a>.
+Find more details and further discussions in our paper.
 Do you have any questions or are wondering about other details? Happy to <a href= "mailto:holmesbenchmark@gmail.com">chat</a>.
 
 
