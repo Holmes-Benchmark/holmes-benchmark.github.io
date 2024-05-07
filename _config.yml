@@ -21,7 +21,7 @@ author: Holmes Benchmark
 full-width: false
 
 navbar-links:
-  #Paper: "https://arxiv.org/abs/2404.18923"
+  Paper: "https://arxiv.org/abs/2404.18923"
   Insights: "https://holmes-benchmark.github.io/insights"
   Code: "https://github.com/Holmes-Benchmark/holmes-evaluation"
   Leaderboard: "https://holmes-leaderboard.streamlit.app/"
