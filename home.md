@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Holmes
-subtitle: Benchmark the Linguistic Competence of Language Models
+subtitle: A Benchmark to Assess the Linguistic Competence of Language Models
 ---
 
 ![Drag Racing](assets/img/benchmark.jpg)
